@@ -37519,7 +37519,7 @@ s.push(new U.n6("",!1,!0,q,q,q,!1,q,C.aq,C.l,"",!0,!1,q,C.bG))
 return!1}return!0}}
 Y.up.prototype={
 M:function(a){var s=null,r=L.L1("Ilmu Coding",s),q=t.t
-return new M.oM(new E.mo(r,!0,new P.a0(1/0,56),s),new T.ib(C.P,s,s,T.R1(H.b([M.Dr(s,s,s,s,S.mz(s,s,s,s,s,new X.tt(new D.ky("https://ilmucoding.com/wp-content/uploads/2020/01/Logo-Ilmu-Coding-1200x1035.jpg"),C.mw),C.aW),300,s,s,300),T.R1(H.b([L.L1("Coba mengganti beberapa isi",A.pc(s,s,s,s,s,s,s,s,s,s,s,24,s,C.cX,s,s,!0,s,s,s,s,s,s)),new T.ex(s,30,s,s)],q),C.l4),T.R1(H.b([L.L1("Apa yang akan terjadi ??",s),new T.ex(s,30,s,s)],q),C.l4)],q),C.nM),s),s)}}
+return new M.oM(new E.mo(r,!0,new P.a0(1/0,56),s),new T.ib(C.P,s,s,T.R1(H.b([M.Dr(s,s,s,s,S.mz(s,s,s,s,s,new X.tt(new D.ky("https://ilmucoding.com/wp-content/uploads/2020/01/Logo-Ilmu-Coding-1200x1035.jpg"),C.mw),C.aW),300,s,s,300),T.R1(H.b([L.L1("Coba mengganti beberapa isi.  CobA ini yang terakhir",A.pc(s,s,s,s,s,s,s,s,s,s,s,24,s,C.cX,s,s,!0,s,s,s,s,s,s)),new T.ex(s,30,s,s)],q),C.l4),T.R1(H.b([L.L1("Apa yang akan terjadi ?? mungkin apa kah itu??",s),new T.ex(s,30,s,s)],q),C.l4)],q),C.nM),s),s)}}
 F.v6.prototype={
 M:function(a){return new S.nP(new Y.up(null),"Flutter Web Demo",X.UX(null,C.l5,X.a_Z()),null)}}
 E.lj.prototype={
